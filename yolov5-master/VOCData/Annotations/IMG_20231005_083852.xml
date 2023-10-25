@@ -1,0 +1,56 @@
+<annotation>
+	<folder>UAV_data</folder>
+	<filename>IMG_20231005_083852.jpg</filename>
+	<source>
+		<database>The UAV autolanding</database>
+		<annotation>UAV AutoLanding</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>ChaojieZhu</name>
+	</owner>
+	<size>
+		<width>2736</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+		<segmented>0</segmented>
+	<object>
+		<name>Figure</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>36</ymin>
+			<xmax>2708</xmax>
+			<ymax>2991</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>474</xmin>
+			<ymin>3062</ymin>
+			<xmax>2574</xmax>
+			<ymax>3386</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2408</xmin>
+			<ymin>3478</ymin>
+			<xmax>2566</xmax>
+			<ymax>3566</ymax>
+		</bndbox>
+	</object>
+</annotation>
